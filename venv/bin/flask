@@ -1,4 +1,4 @@
-#!/home/ksivam65/flask-tutorial/venv/bin/python3.7
+#!/home/ksivam/projects/Flaskr/venv/bin/python3.7
 
 # -*- coding: utf-8 -*-
 import re
